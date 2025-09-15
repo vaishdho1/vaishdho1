@@ -2,7 +2,7 @@
 
 <h2 align="center">👋 I'm <b>Vaishnavi Panchavati</b> </h2>
 
-**Passionate about scalable, fault tolerant, high performance distributed systems**  
+**Passionate about building scalable, fault tolerant, high performance distributed systems**  
 Distributed Systems • AI Infrastructure • C++ • Python
 
 🌐 <a href="https://vaishdho1.github.io/my-portfolio/">Portfolio</a> ·  💼 <a href="https://www.linkedin.com/in/vaishnavi-panchavati/"> LinkedIn</a> 
