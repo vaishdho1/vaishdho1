@@ -20,8 +20,15 @@ Distributed Systems • AI Infrastructure • C++ • Python
 
 ---
 <h3 align="left">🌿 Open Source</h2>
-
-- <a href="https://github.com/ray-project/ray">**Ray**
+<ul>
+  <li>
+   <a href="https://github.com/ray-project/ray">Ray</a>
+  <ul>
+    <li>
+      <a href="https://github.com/ray-project/ray/commits?author=vaishdho1">Commits</a>
+    </li>
+  </ul>
+  </li>
 
 ---
 
