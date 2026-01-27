@@ -13,10 +13,7 @@ Distributed Systems • AI Infrastructure • C++ • Python
 
 - <h4>🛰 Distributed LLM Serving System — <a href="https://github.com/vaishdho1/Model-Serving-System">Repo</a> · <a href="https://vaishdho1.github.io/my-portfolio/llm-serving-system2.html">Blog post</a></h3>
 
-- <h4>📊 Stock Bazaar (Microservices Design) — <a href="https://github.com/vaishdho1/Certifications/blob/main/stock-app-design-doc.pdf">Design Doc</a></h3>
-
-
-- <h4>⚙️ Quantization-Inference — <a href="https://github.com/vaishdho1/Quantization-Inference">Repo</a></h3>
+- <h4>⚙️ Raft backed KV store — <a href="https://github.com/vaishdho1/Raft-project">Repo</a> · <a href="https://vaishdho1.github.io/my-portfolio/raft-consensus-protocol.html">Blog post</a></h3>
 
 ---
 <h3 align="left">🌿 Open Source</h2>
@@ -39,12 +36,6 @@ Distributed Systems • AI Infrastructure • C++ • Python
 - **Cloud & Infrastructure:** Docker • AWS • GCP • Kubernetes • Prometheus • Grafana  
 - **Databases:** PostgreSQL • SQLite • MongoDB  
 - **ML:** vLLM • PyTorch 
----
-
-<h3 align="left"> 🔭 What I’m Building</h3>
-
-- **Raft backed KV & state layer** for durable, fault-tolerant orchestration
-
 ---
 
 <h3 align="left"> 🤝 Let’s Collaborate</h3>
