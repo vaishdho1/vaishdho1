@@ -33,7 +33,7 @@ Distributed Systems • AI Infrastructure • C++ • Python
 
 - **Languages:** C++ • Python • Go  
 - **Frameworks & APIs:** gRPC • Boost.Asio • FastAPI, Flask
-- **Cloud & Infrastructure:** Docker • AWS • GCP • Kubernetes • Prometheus • Grafana  
+- **Cloud & Infrastructure:** Docker • AWS • Kubernetes • Prometheus • Grafana  
 - **Databases:** PostgreSQL • SQLite • MongoDB  
 - **ML:** vLLM • PyTorch 
 ---
